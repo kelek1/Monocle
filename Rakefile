@@ -1,3 +1,5 @@
+require 'rubygems'
+
 class MonocleDistributor
 
   def build(options = {})
